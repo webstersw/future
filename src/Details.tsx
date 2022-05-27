@@ -62,4 +62,4 @@ const Details: React.FC<{selected: Exercise}> = ({selected}) => {
     );
   }
 
-  export default Details
+  export default Details;
