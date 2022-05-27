@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "jsx": "react"
+    },
+    "files": [
+      "src/App.tsx",
+      "src/Browse.tsx",
+      "src/Details.tsx",
+      "src/index.tsx",
+      "src/Search.tsx"
+    ]
+  }
